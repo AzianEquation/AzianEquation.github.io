@@ -3,7 +3,7 @@
 The game is deployed on Github pages for preview; However, HLAPI multiplayer is not supported with the WebGL build.
 [Preview](https://azianequation.github.io/)
 # Main Menu
-![image](https://user-images.githubusercontent.com/47394267/72548840-8acc9a00-385d-11ea-9dad-d8c6febc6d4b.png)
+![image](https://user-images.githubusercontent.com/47394267/72549534-df244980-385e-11ea-90bb-9fe28977db2e.png)
 # Lobby with ship selection
 ![image](https://user-images.githubusercontent.com/47394267/72548901-a6d03b80-385d-11ea-913f-1d9de4fea1ca.png)
 # HLAPI used for multiplayer
