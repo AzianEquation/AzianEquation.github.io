@@ -1,6 +1,7 @@
 # Six Degrees of Fun
 6DOF is 3D multiplayer space-shooter built in Unity.
 The game is deployed on Github pages for preview; However, HLAPI multiplayer is not supported with the WebGL build.
+[Preview](https://azianequation.github.io/)
 # Main Menu
 ![image](https://user-images.githubusercontent.com/47394267/72548840-8acc9a00-385d-11ea-9dad-d8c6febc6d4b.png)
 # Lobby with ship selection
